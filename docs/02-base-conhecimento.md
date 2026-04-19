@@ -153,6 +153,8 @@ PRODUTOS DISPONÍVEIS PARA ENSINO(/data
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
+O exemplo de contexto montado abaixo se baseia nos dados originais da base de conhecimento, mas os sintetiza deixando apenas as informações mais relevantes, otimizando o consumo de token. Entretanto o mais importante que economizar tokens, é termos as informações mais relevantes disponíveis em seu contexto.
+
 ```
 DADOS DO CLIENTE:
 - Nome: João Silva
