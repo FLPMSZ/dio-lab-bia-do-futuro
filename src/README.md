@@ -4,8 +4,10 @@
 ## Setup do Ollama
 ```bash
 1. Instalar o Ollama(Ollama AI)
+
 2. Baixar um modelo leve
 ollama pull gpt-oss
+
 3. Testar se funciona
 ollama run gpt-oss
 
