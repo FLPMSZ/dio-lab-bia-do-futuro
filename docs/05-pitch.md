@@ -3,42 +3,28 @@
 > [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
-## Roteiro Sugerido
+## Roteiro Nico
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+> Muitos brasileiros atualmente possuem dificuldade em investimentos ou controlarem suas finanças, gerando gastos desnecessários e perdas em investimentos fracassados.
 
-[Sua descrição aqui]
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+> O Nico é um educador financeiro que utiliza seus própios dados como exemplo, ele não recomenda investimentos, apenas educa. Seria como ter um professor de finanças sempre que você tiver alguma dúvida.
 
-[Sua descrição aqui]
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
 
-[Descreva o que será mostrado]
+> 'O que é CDI?'
+> 'Onde estou gastando mais?'
+> 'O que é o tesouro Selic?
 
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-[Sua descrição aqui]
+Diferente de vários Chat Bots genéricos, o Nico utiliza seus dados, facilitando seu aprendizado. E roda localmente sem custo e não envia seus dados a ninguém.
 
 ---
 
-## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
 
----
-
-## Link do Vídeo
-
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
