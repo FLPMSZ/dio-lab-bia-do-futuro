@@ -26,5 +26,6 @@ Diferente de vários Chat Bots genéricos, o Nico utiliza seus dados, facilitand
 
 ---
 
+OBS: Não possuo equipamentos necessários para poder gravar os requisitos do pitch.
 
 
